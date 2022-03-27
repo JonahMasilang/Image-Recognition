@@ -1,0 +1,33 @@
+body {
+
+    color: orange;
+    background: darkblue;
+
+}
+
+.heading {
+
+    width: 80%;
+    font-size: 20px;
+
+}
+
+.bold {
+    
+    color: forestgreen;
+
+}
+
+#camera {
+
+    border: 2px dashed black;
+    width: 350px;
+    height: 350;
+
+}
+
+#object_span, #accuracy {
+
+    color: white;
+    
+}
